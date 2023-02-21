@@ -1,0 +1,4 @@
+<_io.TextIOWrapper name='./tsndsdnnm.txt' mode='a' encoding='cp65001'> Started Reading !!
+<_io.TextIOWrapper name='./tsndsdnnm.txt' mode='a' encoding='cp65001'> Started Reading !!
+<_io.TextIOWrapper name='./tsndsdnnm.txt' mode='a' encoding='cp65001'> Started Reading !!
+<_io.TextIOWrapper name='./tsndsdnnm.txt' mode='a' encoding='cp65001'> Started Reading !!
